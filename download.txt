@@ -1,0 +1,13 @@
+*Release Date: [Add date]*
+
+## 🚀 Quick Download Buttons
+
+[![Download Amatak Pre Installer](https://img.shields.io/badge/Download-Amatak_Pre_Installer_1.1.1-blue)](https://downloads.amatak.io/Software/Amatak_Pre_Installer_1.1.1.exe)
+[![Download Python PATH Add](https://img.shields.io/badge/Download-Python_PATH_Add-green)](https://downloads.amatak.io/Software/amatak_add_python_to_path.bat)
+[![Download Amatak Desktop One](https://img.shields.io/badge/Download-Amatak_Desktop_One_1.1.3-orange)](https://downloads.amatak.io/Software/Amatak_Desktop_One_1.1.3.exe)
+
+## 📋 All Downloads
+
+- **[Amatak Pre Installer v1.1.1](https://downloads.amatak.io/Software/Amatak_Pre_Installer_1.1.1.exe)** - Pre-installation setup for Amatak
+- **[Amatak Add Python to PATH v1.0.0](https://downloads.amatak.io/Software/amatak_add_python_to_path.bat)** - Batch script to add Python to system PATH
+- **[Amatak Desktop One v1.1.3](https://downloads.amatak.io/Software/Amatak_Desktop_One_1.1.3.exe)** - Main Amatak Desktop application
